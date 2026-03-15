@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [The World](world.md)
+* [Mining & Ores](mining.md)
+* [$GEM Token](gem-token.md)
+* [The Forge — Upgrades](forge-upgrades.md)
+  * [Pickaxe Tiers](forge-upgrades.md#pickaxe)
+  * [Armor Tiers](forge-upgrades.md#armor)
+  * [Stamina Core Tiers](forge-upgrades.md#stamina)
+* [Goblin Threat System](goblins.md)
+* [Ghost Miner](ghost-miner.md)
+* [Achievements](achievements.md)
+* [Multiplayer](multiplayer.md)
+* [On-Chain Architecture](on-chain-architecture.md)
+* [Roadmap](roadmap.md)
